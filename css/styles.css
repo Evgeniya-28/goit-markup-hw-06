@@ -870,7 +870,9 @@ button {
   display: flex;
   flex-direction: column;
 }
-
+.icon-soc {
+  color: #f4f4fd;
+}
 .footer-container-inform {
   display: flex;
   flex-direction: column;
